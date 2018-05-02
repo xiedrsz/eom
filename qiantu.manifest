@@ -1,0 +1,46 @@
+CACHE MANIFEST
+
+# 2017-07-12 V1.0.1
+
+# CACHE:
+
+/static/js/vendor.3bb7f805ad7aca06a226.js
+/static/js/app.e97bf4034bbb56541ecb.js
+/static/js/manifest.1565cafc918054229cb1.js
+/static/css/app.94404567870c35e1f63978059145e94d.css
+/static/js/vendor.3bb7f805ad7aca06a226.js.map
+/static/js/app.e97bf4034bbb56541ecb.js.map
+/static/css/app.94404567870c35e1f63978059145e94d.css.map
+/static/js/manifest.1565cafc918054229cb1.js.map
+/static/cordova_plugins.js
+/static/cordova.js
+/static/img/chxbank.png
+/static/img/defaultw.png
+/static/img/fail-tip.png
+/static/img/gp.png
+/static/img/gshbank.png
+/static/img/jd.png
+/static/img/jj.png
+/static/img/lct.png
+/static/img/lq.png
+/static/img/lqt.png
+/static/img/shbank.png
+/static/img/pa.png
+/static/img/success-tip.png
+/static/img/success.png
+/static/img/thsh.png
+/static/img/wallet.png
+/static/img/warn.png
+/static/img/wh.png
+/static/img/zhfb.png
+/static/img/zhgbank.png
+/static/img/zhshbank.png
+/static/img/zhsh.png
+/static/img/zhxbank.png
+/static/plugins/com.xiedrsz.xfyspeech/www/xfySpeech.js
+
+
+NETWORK:
+*
+
+# FALLBACK:
