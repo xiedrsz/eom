@@ -5,42 +5,42 @@ CACHE MANIFEST
 # CACHE:
 
 /static/js/vendor.3bb7f805ad7aca06a226.js
-/static/js/app.e97bf4034bbb56541ecb.js
-/static/js/manifest.fddb5ff341be1e4e4c14.js
+/static/js/app.2ed55c489eff568194c2.js
+/static/js/manifest.807646c5bbd307bb9673.js
 /static/css/app.94404567870c35e1f63978059145e94d.css
 /static/js/vendor.3bb7f805ad7aca06a226.js.map
-/static/js/app.e97bf4034bbb56541ecb.js.map
+/static/js/app.2ed55c489eff568194c2.js.map
 /static/css/app.94404567870c35e1f63978059145e94d.css.map
-/static/js/manifest.fddb5ff341be1e4e4c14.js.map
+/static/js/manifest.807646c5bbd307bb9673.js.map
 /static/css/app.94404567870c35e1f63978059145e94d.css.gz
-/static/js/app.e97bf4034bbb56541ecb.js.gz
+/static/js/app.2ed55c489eff568194c2.js.gz
 /static/js/vendor.3bb7f805ad7aca06a226.js.gz
-/static/cordova_plugins.js
 /static/cordova.js
+/static/cordova_plugins.js
 /static/img/defaultw.png
-/static/img/chxbank.png
 /static/img/fail-tip.png
-/static/img/gp.png
+/static/img/chxbank.png
 /static/img/gshbank.png
 /static/img/jd.png
+/static/img/gp.png
 /static/img/jj.png
 /static/img/lct.png
-/static/img/lq.png
 /static/img/lqt.png
+/static/img/lq.png
 /static/img/shbank.png
-/static/img/pa.png
 /static/img/success-tip.png
 /static/img/success.png
-/static/img/thsh.png
-/static/img/wallet.png
+/static/img/pa.png
 /static/img/wh.png
 /static/img/warn.png
+/static/img/thsh.png
 /static/img/zhfb.png
+/static/img/wallet.png
 /static/img/zhgbank.png
-/static/img/zhsh.png
-/static/img/zhshbank.png
-/static/plugins/com.xiedrsz.xfyspeech/www/xfySpeech.js
 /static/img/zhxbank.png
+/static/plugins/com.xiedrsz.xfyspeech/www/xfySpeech.js
+/static/img/zhshbank.png
+/static/img/zhsh.png
 
 
 NETWORK:
