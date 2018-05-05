@@ -5,32 +5,32 @@ CACHE MANIFEST
 # CACHE:
 
 /static/js/vendor.3bb7f805ad7aca06a226.js
-/static/js/app.6ec43b3228709d5cd9da.js
-/static/js/manifest.17e3e875317dfa784046.js
-/static/css/app.9fb71c68cf5ad43d4c5080c57ece8685.css
+/static/js/app.88b55c19ee3a82f1b5f0.js
+/static/js/manifest.f00df5f4afdfc4f4e68c.js
+/static/css/app.58b2394c9cf6ae501fb9b82f5f2c8e13.css
 /static/js/vendor.3bb7f805ad7aca06a226.js.map
-/static/js/app.6ec43b3228709d5cd9da.js.map
-/static/css/app.9fb71c68cf5ad43d4c5080c57ece8685.css.map
-/static/js/manifest.17e3e875317dfa784046.js.map
-/static/css/app.9fb71c68cf5ad43d4c5080c57ece8685.css.gz
-/static/js/app.6ec43b3228709d5cd9da.js.gz
+/static/js/app.88b55c19ee3a82f1b5f0.js.map
+/static/css/app.58b2394c9cf6ae501fb9b82f5f2c8e13.css.map
+/static/js/manifest.f00df5f4afdfc4f4e68c.js.map
+/static/js/app.88b55c19ee3a82f1b5f0.js.gz
+/static/css/app.58b2394c9cf6ae501fb9b82f5f2c8e13.css.gz
 /static/js/vendor.3bb7f805ad7aca06a226.js.gz
-/static/cordova_plugins.js
 /static/cordova.js
 /static/img/defaultw.png
-/static/img/chxbank.png
+/static/cordova_plugins.js
 /static/img/fail-tip.png
+/static/img/chxbank.png
 /static/img/gp.png
+/static/img/icon.png
+/static/img/jj.png
 /static/img/gshbank.png
 /static/img/jd.png
-/static/img/jj.png
-/static/img/icon.png
-/static/img/pa.png
 /static/img/lq.png
+/static/img/pa.png
 /static/img/lct.png
 /static/img/shbank.png
-/static/img/success-tip.png
 /static/img/lqt.png
+/static/img/success-tip.png
 /static/img/success.png
 /static/img/warn.png
 /static/img/thsh.png
@@ -38,11 +38,11 @@ CACHE MANIFEST
 /static/img/wh.png
 /static/img/zhgbank.png
 /static/img/zhfb.png
+/static/img/zhsh.png
 /static/img/zhshbank.png
 /static/plugins/com.xiedrsz.xfyspeech/www/xfySpeech.js
 /static/img/start.png
 /static/img/zhxbank.png
-/static/img/zhsh.png
 
 
 NETWORK:
