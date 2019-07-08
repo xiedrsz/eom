@@ -1,36 +1,36 @@
 CACHE MANIFEST
 
-# 2019-04-02 V1.0.3
+# 2019-07-08 V1.0.4
 
 # CACHE:
 
 ./static/img/iconfont.d828acc.svg
 ./static/img/head.4a822b2.jpg
 ./static/img/logout.a08a946.svg
-./static/js/vendor.5022a03ba6ae75f94aec.js
-./static/js/app.b4023a27179b9dd789c3.js
-./static/js/manifest.51aeda77f5088715bd62.js
+./static/js/vendor.87d91b28cbb2b5af2b97.js
+./static/js/app.6cbc3e57aa788ae7449a.js
+./static/js/manifest.37616e79418b7b82bb54.js
 ./static/css/app.5520e07f223aaafa20cb3ad37268f4f5.css
-./static/js/vendor.5022a03ba6ae75f94aec.js.map
-./static/js/app.b4023a27179b9dd789c3.js.map
+./static/js/vendor.87d91b28cbb2b5af2b97.js.map
+./static/js/app.6cbc3e57aa788ae7449a.js.map
 ./static/css/app.5520e07f223aaafa20cb3ad37268f4f5.css.map
-./static/js/manifest.51aeda77f5088715bd62.js.map
-./static/js/app.b4023a27179b9dd789c3.js.gz
+./static/js/manifest.37616e79418b7b82bb54.js.map
 ./static/css/app.5520e07f223aaafa20cb3ad37268f4f5.css.gz
-./static/js/vendor.5022a03ba6ae75f94aec.js.gz
-./static/cordova_plugins.js
+./static/js/app.6cbc3e57aa788ae7449a.js.gz
+./static/js/vendor.87d91b28cbb2b5af2b97.js.gz
 ./static/cordova.js
+./static/cordova_plugins.js
 ./static/img/defaultw.png
-./static/img/chxbank.png
 ./static/img/fail-tip.png
-./static/img/gshbank.png
 ./static/img/gp.png
-./static/img/icon.png
-./static/img/jd.png
-./static/img/jj.png
-./static/img/lqt.png
+./static/img/chxbank.png
+./static/img/gshbank.png
 ./static/img/lct.png
+./static/img/jj.png
+./static/img/jd.png
+./static/img/icon.png
 ./static/img/lq.png
+./static/img/lqt.png
 ./static/img/shbank.png
 ./static/img/pa.png
 ./static/img/success-tip.png
@@ -39,12 +39,12 @@ CACHE MANIFEST
 ./static/img/nybank.png
 ./static/img/wallet.png
 ./static/img/warn.png
-./static/img/wh.png
 ./static/img/zhfb.png
+./static/img/wh.png
 ./static/img/zhgbank.png
-./static/img/zhsh.png
-./static/plugins/com.xiedrsz.xfyspeech/www/xfySpeech.js
 ./static/img/zhshbank.png
+./static/plugins/com.xiedrsz.xfyspeech/www/xfySpeech.js
+./static/img/zhsh.png
 ./static/img/zhxbank.png
 ./static/img/start.png
 
